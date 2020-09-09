@@ -1,6 +1,6 @@
 ---
 title: Introduction
-seoTitle: title for search engines
+seoTitle: Twinkle for search engines
 seoDescription: description for search engines
 isFree: true
 ---
