@@ -2,7 +2,7 @@
 title: Ch.1
 seoTitle: Twinkle for search engines
 seoDescription: description for search engines
-isFree: true
+isFree: false
 ---
 
 ![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
